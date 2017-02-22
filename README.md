@@ -6,6 +6,7 @@
     </head>
     <body>
       <p>Como usar o git:</p>
+      <alert> olá, segundo programa </alert>
       <p>depois voce precisa fazer algo</p>
      </body>
     </html>
